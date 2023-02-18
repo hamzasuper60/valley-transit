@@ -1,0 +1,9 @@
+{
+    "name": "valley_transit_website_new",
+    "host": "0.0.0.0",
+    "port": 50301,
+    "debug": false,
+    "auto_reload": false,
+    "access_log": false,
+    "fast": false
+}

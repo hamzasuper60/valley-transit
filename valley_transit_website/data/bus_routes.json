@@ -1,0 +1,108 @@
+[
+   {
+      "route":12,
+      "description":"River City Outer Loop",
+      "route_info":[
+         {
+            "route":"Loop",
+            "stops":[
+               "River City Bus Station",
+               "River City / Open Car Park",
+               "River City / Hotel & Hospital",
+               "Fairfax Road / Home Depot",
+               "Valley Drive / The Convenience Store",
+               "River City Bus Station"
+            ]
+         }
+      ]
+   },
+   {
+      "route":24,
+      "description":"River City Inner Loop",
+      "route_info":[
+         {
+            "route":"Loop",
+            "stops":[
+               "River City Bus Station",
+               "River City / The Fountain",
+               "River City / Hotel & Hospital",
+               "River City / Open Car Park",
+               "River City Bus Station"
+            ]
+         }
+      ]
+   },
+   {
+      "route":30,
+      "description":"River City to Springfield Shuttle",
+      "route_info":[
+         {
+            "route":"River City to Springfield",
+            "stops":[
+               "River City Bus Station",
+               "River City Industrial District",
+               "River City Police Station",
+               "Springfield Gas Station",
+               "Springfield Central / The Doller Store"
+            ]
+         },
+         {
+            "route":"Springfield to River City",
+            "stops":[
+               "Springfield Central / The Doller Store",
+               "Springfield Parking Garage",
+               "River City Police Station",
+               "River City Bus Station"
+            ]
+         }
+      ]
+   },
+   {
+      "route":48,
+      "description":"River City to Housing Suburbs Shuttle",
+      "route_info":[
+         {
+            "route":"River City to Housing Suburbs",
+            "stops":[
+               "River City Bus Station",
+               "River City / The Fountain",
+               "Housing Suburbs East"
+            ]
+         },
+         {
+            "route":"Housing Suburbs to River City",
+            "stops":[
+               "Housing Suburbs East",
+               "Housing Suburbs West",
+               "River City Bus Station"
+            ]
+         }
+      ]
+   },
+   {
+      "route":56,
+      "description":"High Rock Park to Springfield Lake Shuttle",
+      "route_info":[
+         {
+            "route":"High Rock Park to Springfield Lake",
+            "stops":[
+               "High Rock Park / Main Entrance",
+               "Springfield Gas Station",
+               "Springfield Central / The Doller Store",
+               "Springfield Suburbs / The Market",
+               "Springfield Lake"
+            ]
+         },
+         {
+            "route":"Springfield Lake to High Rock Park",
+            "stops":[
+               "Springfield Lake",
+               "Springfield Suburbs / The Market",
+               "Springfield Central / The Doller Store",
+               "Springfield Parking Garage",
+               "High Rock Park / Main Entrance"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,585 @@
+[
+	{
+		"name":"River City Bus Station",
+		"postal":206,
+		"id":"1",
+		"times":[
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":0
+			},
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":15
+			},
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":30
+			},
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":45
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":5
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":15
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":25
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":35
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":45
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":55
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":10
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":30
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":50
+			},
+			{
+				"route":"48",
+				"destination":"Housing Suburbs East",
+				"departure":5
+			},
+			{
+				"route":"48",
+				"destination":"Housing Suburbs East",
+				"departure":20
+			},
+			{
+				"route":"48",
+				"destination":"Housing Suburbs East",
+				"departure":35
+			},
+			{
+				"route":"48",
+				"destination":"Housing Suburbs East",
+				"departure":50
+			}
+		]
+	},
+	{
+		"name":"River City / The Fountain",
+		"postal":216,
+		"id":"2",
+		"times":[
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":6
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":16
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":26
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":36
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":46
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":56
+			},
+			{
+				"route":"48",
+				"destination":"Housing Suburbs East",
+				"departure":6
+			},
+			{
+				"route":"48",
+				"destination":"Housing Suburbs East",
+				"departure":21
+			},
+			{
+				"route":"48",
+				"destination":"Housing Suburbs East",
+				"departure":36
+			},
+			{
+				"route":"48",
+				"destination":"Housing Suburbs East",
+				"departure":51
+			}
+		]
+	},
+	{
+		"name":"River City / Hotel & Hospital",
+		"postal":219,
+		"id":"3",
+		"times":[
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":4
+			},
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":19
+			},
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":34
+			},
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":49
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":8
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":18
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":28
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":38
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":48
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":58
+			}
+		]
+	},
+	{
+		"name":"River City / Open Car Park",
+		"postal":202,
+		"id":"4",
+		"times":[
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":2
+			},
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":17
+			},
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":32
+			},
+			{
+				"route":"12",
+				"destination":"River City Bus Station",
+				"departure":47
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":10
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":20
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":30
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":40
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":50
+			},
+			{
+				"route":"24",
+				"destination":"River City Bus Station",
+				"departure":0
+			}
+		]
+	},
+	{
+		"name":"Housing Suburbs West",
+		"postal":704,
+		"id":"5",
+		"times":[
+			{
+				"route":"48",
+				"destination":"River City Bus Station",
+				"departure":12
+			},
+			{
+				"route":"48",
+				"destination":"River City Bus Station",
+				"departure":27
+			},
+			{
+				"route":"48",
+				"destination":"River City Bus Station",
+				"departure":42
+			},
+			{
+				"route":"48",
+				"destination":"River City Bus Station",
+				"departure":57
+			}
+		]
+	},
+	{
+		"name":"Housing Suburbs East",
+		"postal":706,
+		"id":"6",
+		"times":[
+			{
+				"route":"48",
+				"destination":"River City Bus Station",
+				"departure":10
+			},
+			{
+				"route":"48",
+				"destination":"River City Bus Station",
+				"departure":25
+			},
+			{
+				"route":"48",
+				"destination":"River City Bus Station",
+				"departure":40
+			},
+			{
+				"route":"48",
+				"destination":"River City Bus Station",
+				"departure":55
+			}
+		]
+	},
+	{
+		"name":"River City Industrial District",
+		"postal":304,
+		"id":"7",
+		"times":[
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":13
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":33
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":53
+			}
+		]
+	},
+	{
+		"name":"River City Police Station",
+		"postal":309,
+		"id":"8",
+		"times":[
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":14
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":34
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":54
+			},
+			{
+				"route":"30",
+				"destination":"River City Bus Station",
+				"departure":4
+			},
+			{
+				"route":"30",
+				"destination":"River City Bus Station",
+				"departure":24
+			},
+			{
+				"route":"30",
+				"destination":"River City Bus Station",
+				"departure":44
+			}
+		]
+	},
+	{
+		"name":"High Rock Park / Main Entrance",
+		"postal":1201,
+		"id":"9",
+		"times":[
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":7
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":27
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":47
+			}
+		]
+	},
+	{
+		"name":"Springfield Gas Station",
+		"postal":1107,
+		"id":"10",
+		"times":[
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":9
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":29
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":49
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":17
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":37
+			},
+			{
+				"route":"30",
+				"destination":"Springfield Central / The Doller Store",
+				"departure":57
+			}
+		]
+	},
+	{
+		"name":"Springfield Parking Garage",
+		"postal":1105,
+		"id":"11",
+		"times":[
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":21
+			},
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":41
+			},
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":1
+			},
+			{
+				"route":"30",
+				"destination":"River City Bus Station",
+				"departure":21
+			},
+			{
+				"route":"30",
+				"destination":"River City Bus Station",
+				"departure":41
+			},
+			{
+				"route":"30",
+				"destination":"River City Bus Station",
+				"departure":1
+			}
+		]
+	},
+	{
+		"name":"Springfield Central / The Doller Store",
+		"postal":1104,
+		"id":"12",
+		"times":[
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":20
+			},
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":40
+			},
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":0
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":10
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":30
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":50
+			},
+			{
+				"route":"30",
+				"destination":"River City Bus Station",
+				"departure":20
+			},
+			{
+				"route":"30",
+				"destination":"River City Bus Station",
+				"departure":40
+			},
+			{
+				"route":"30",
+				"destination":"River City Bus Station",
+				"departure":0
+			}
+		]
+	},
+	{
+		"name":"Springfield Suburbs / The Market",
+		"postal":908,
+		"id":"13",
+		"times":[
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":19
+			},
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":39
+			},
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":59
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":19
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":39
+			},
+			{
+				"route":"56",
+				"destination":"Springfield Lake",
+				"departure":59
+			}
+		]
+	},
+	{
+		"name":"Springfield Lake",
+		"postal":900,
+		"id":"14",
+		"times":[
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":17
+			},
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":37
+			},
+			{
+				"route":"56",
+				"destination":"High Rock Park / Main Entrance",
+				"departure":57
+			}
+		]
+	}
+]

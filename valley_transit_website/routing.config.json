@@ -1,0 +1,72 @@
+[
+    {
+        "handler": "route_index_handler",
+        "path": "/",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_page_handler",
+        "path": "/home",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_page_handler",
+        "path": "/taxi/order",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_page_handler",
+        "path": "/bus/stops",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_page_handler",
+        "path": "/bus/times",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_page_handler",
+        "path": "/bus/routes",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_api_router_handler",
+        "path": "/api/router",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_api_limo_list_handler",
+        "path": "/api/limo/list",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_api_taxi_order_handler",
+        "path": "/api/taxi/order",
+        "methods": ["POST"]
+    },
+    {
+        "handler": "route_api_bus_times_handler",
+        "path": "/api/bus/times",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_api_bus_stops_handler",
+        "path": "/api/bus/stops",
+        "methods": ["GET"]
+    },
+    {
+        "handler": "route_api_bus_routes_handler",
+        "path": "/api/bus/routes",
+        "methods": ["GET"]
+    },
+	{
+        "handler": "route_api_bus_route_activate_handler",
+        "path": "/api/bus/route/activate",
+        "methods": ["GET"]
+    },
+	{
+        "handler": "route_api_bus_route_deactivate_handler",
+        "path": "/api/bus/route/deactivate",
+        "methods": ["GET"]
+    }
+]

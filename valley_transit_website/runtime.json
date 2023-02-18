@@ -1,0 +1,10 @@
+{
+    "apps": [{
+        "name": "Valley Transit Website (valley_transit_website)",
+        "script": "./server.py",
+        "args": [],
+        "instances": "1",
+		"restart_delay": "10000",
+        "interpreter" : "python3",
+    }]
+}
